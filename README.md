@@ -16,5 +16,5 @@ Thanks to the following group members for contributing to this repository:
 * Suraj
 * Dr. Arun Dayal Udai
 
-Feel free to get in touch with us to know more deatails.
+Feel free to get in touch with us to know more details.
 
