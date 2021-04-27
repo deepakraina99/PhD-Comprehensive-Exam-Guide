@@ -7,14 +7,13 @@ This repository contains the following:
 4. Syllabus
 
 Thanks to the following group members for contributing to this repository:
-* Sandeep Kumar
-* Udayan Banerjee
-* Manas Kumar Sahoo
-* Adnan Jawed
+* Dr. Arun Dayal Udai
 * Vishnu Kumar
 * Sreejath
+* Sandeep Kumar
 * Suraj
-* Dr. Arun Dayal Udai
+* Udayan Banerjee
+* Adnan Jawed
 
 Feel free to get in touch with us to know more details.
 
